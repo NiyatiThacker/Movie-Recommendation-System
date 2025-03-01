@@ -22,6 +22,10 @@ A **Movie Recommendation System** built using **machine learning techniques**, i
 ### 🔹 **Watchlist & Search History**  
 ![Screenshot (43)](https://github.com/user-attachments/assets/39750786-1da2-4376-8a43-29083ebd2fc2)
 
+### Data Analysis 
+![image](https://github.com/user-attachments/assets/a0aa96b1-a2f3-4942-86ce-4167b55c96e6)
+![image](https://github.com/user-attachments/assets/1a7c7cca-1c43-45f7-8afe-f96231dd306b)
+![image](https://github.com/user-attachments/assets/da83b55e-f7de-4e36-9ae3-a6ae6fcbc05b)
 
 
 
